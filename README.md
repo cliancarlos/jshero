@@ -8,7 +8,7 @@
 
 > Use undefined only for undeclared variables, empty variables use NULL.
 
-- Function verbs
+## Function verbs
 
 | Verb  | Meaning               |
 | ------------- | ------------- |
