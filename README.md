@@ -3,10 +3,13 @@
 
 # Conventions
 > Value constant, -> All capitals.
+
 > Null is placeholder for object.
+
 > Use undefined only for undeclared variables, empty variables use NULL.
->  
+
 - Function verbs
+
 | Verb  | Meaning               |
 | ------------- | ------------- |
 | can  | Function returns a boolean  |
