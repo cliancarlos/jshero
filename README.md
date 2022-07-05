@@ -18,6 +18,8 @@
 | get   |Function returns a nonboolean|
 | set   |Function is used to save a value|
 
+## Dealing data
+
 
 # Questions
 - When use Objects or Arrays?
